@@ -1,0 +1,17 @@
+Mortality infant rate
+https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?fbclid=IwAR0b3cLxvFnme4yISYQaZAZAwMy52nzT0pNfM2fSR5SfcwbK4m6Lc9n83qY
+
+Population
+https://data.worldbank.org/indicator/SP.POP.TOTL
+
+Alcohol:
+https://data.worldbank.org/indicator/SH.ALC.PCAP.LI
+
+Hepatitis B
+https://apps.who.int/gho/data/node.main.A828?lang=en
+
+measles:
+https://apps.who.int/gho/data/view.main.1540_62
+
+life expectancy:
+https://data.worldbank.org/indicator/SP.DYN.LE00.IN?fbclid=IwAR0LlOZcg5-8MFOJlZ2HIuaNqNvDGbN4q8SFJWKNGPGHOouWx3FmnP3tCRQ

@@ -60,7 +60,12 @@ for col in data.columns:
     if data[col].dtype == 'float64' or data[col].dtype == 'int64':
         # replace missing values with mean of column
         data[col] = data[col].fillna(data[col].mean())
+# only keep relevant columns
+# relevant columns: Country; continent; Life expectancy ;Year;Status;infant deaths;AlcoholHepatitis B;MeaslesPrMillion;OverweightOfAdults% ;Polio;Total expenditure;Diphtheria ; HIV/AIDS;GDP;Population; thinness  1-19 years;Schooling;WaterFacility;WomenInParlament
+
+data = data[['Country', 'continent', 'Life expectancy ', 'Year', 'Status', 'infant deaths', 'Alcohol', 'Hepatitis B', 'MeaslesPrMillion', 'OverweightOfAdults%', 'Polio', 'Total expenditure', 'Diphtheria ', ' HIV/AIDS', 'GDP', 'Population', ' thinness  1-19 years', 'Schooling', 'WaterFacility', 'WomenInParlament']]
+
 # save data
-data.to_csv('Data/Data_processed2.csv', sep=';', index=False)
+data.to_csv('Data/Data_processed.csv', sep=';', index=False)
 
 print(data.isnull().sum().sum())
