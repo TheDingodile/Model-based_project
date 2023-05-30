@@ -15,3 +15,9 @@ https://apps.who.int/gho/data/view.main.1540_62
 
 life expectancy:
 https://data.worldbank.org/indicator/SP.DYN.LE00.IN?fbclid=IwAR0LlOZcg5-8MFOJlZ2HIuaNqNvDGbN4q8SFJWKNGPGHOouWx3FmnP3tCRQ
+
+Water access: https://data.worldbank.org/indicator/SH.H2O.BASW.ZS
+
+Women in parlament: https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?end=2015&start=2000
+
+Overvægt: https://genderdata.worldbank.org/indicators/sh-sta-owad-zs?gender=total&year=2000
